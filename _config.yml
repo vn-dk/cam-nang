@@ -2,7 +2,9 @@ title:
 description: Cẩm nang cho người Việt Nam ở Đan Mạch!
 theme: just-the-docs
 
-url: https://vn-dk.github.io
+url: https://vnidk.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Xem mã nguồn trang web: https://github.com/vnidk/vnidk.github.io
+
+footer_content: "Bản quyền thuộc về các tác giả tại vnidk. Nội dung trên website được phân phối dựa trên <a href=\"https://github.com/vnidk/vnidk.github.io/blob/main/LICENSE\">giấy phép MIT.</a>"
