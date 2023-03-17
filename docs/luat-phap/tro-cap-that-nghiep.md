@@ -23,7 +23,7 @@ Có một trường hợp khác nữa. Nếu trong thời gian 6 tháng trên b�
 
 > You must be able to support yourself during your stay. For example, you are not allowed to receive graduate allowances (dimmitenddagpenge) and benefits under the terms of the Active Social Policy Act – and there might be other benefits that you cannot receive.
 
-Nghĩa là bạn không thể nhận bất cứ lợi ích xã hội nào khi bạn nộp visa này. Xin chia buồn!
+Nghĩa là bạn không thể nhận bất cứ lợi ích xã hội nào khi bạn nộp visa này [^noneea]. Xin chia buồn!
 
 /Tuyen D. Le
 
