@@ -1,6 +1,7 @@
 ---
-title: Home
+title: Trang chủ
 layout: home
+nav_order: 1
 ---
 
 # Miễn trừ trách nhiệm

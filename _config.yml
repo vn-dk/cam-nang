@@ -8,3 +8,20 @@ aux_links:
   Xem mã nguồn trang web: https://github.com/vnidk/vnidk.github.io
 
 footer_content: "Bản quyền thuộc về các tác giả tại vnidk. Nội dung trên website được phân phối dựa trên <a href=\"https://github.com/vnidk/vnidk.github.io/blob/main/LICENSE\">giấy phép MIT.</a>"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  tom-tat:
+    title: Tóm tắt
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
